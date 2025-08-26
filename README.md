@@ -1,5 +1,5 @@
 👋 Привет, я Исламбек
-🧑‍💻 Automation QA Engineer
+🧑‍💻 QA Engineer
 🔧 Технологии и навыки
 
 🐍 Python (pytest) — автоматизация тестов
