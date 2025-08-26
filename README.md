@@ -2,6 +2,7 @@
 🧑‍💻 QA Engineer
 
 🔧 Технологии и навыки
+
 🐍 Python (pytest) — автоматизация тестов
 🐳 Docker, GitLab CI/CD — базовые знания (пайплайны, контейнеризация)
 🧪 REST API тестирование (Postman, pytest)
